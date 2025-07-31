@@ -9,7 +9,8 @@
 ## Usage
 
 ```tsx
- console.log("Alert dismissed")}
+<BottomAlert
+  visible={modalVisible}
   duration={4000}
   autoHide={true}
   showLoader={false}
