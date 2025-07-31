@@ -1,6 +1,6 @@
 {
   "name": "react-native-bottom-alert",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Minimal bottom alert for react native.",
   "license": "MIT",
   "source": "src/index",
