@@ -1,7 +1,7 @@
 {
   "name": "react-native-bottom-alert",
   "version": "1.0.0",
-  "description": "Crossplatfrom Bottom alert notification for react-native",
+  "description": "Minimal bottom alert for react native.",
   "license": "MIT",
   "source": "src/index",
   "main": "lib/commonjs/index.js",
@@ -10,7 +10,8 @@
     "react-native",
     "react-native-alert",
     "react-native-bottom-alert",
-    "react native bottom alert"
+    "react native bottom alert",
+    "react-native-toast"
   ],
   "bugs": {
     "url": "https://github.com/kevin-roan/react-native-bottom-alert"
