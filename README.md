@@ -15,6 +15,8 @@ npm i react-native-bottom-alert
 ## Usage
 
 ```tsx
+import BottomAlert from "react-native-bottom-alert";
+
 <BottomAlert
   visible={modalVisible}
   duration={4000}
@@ -26,7 +28,7 @@ npm i react-native-bottom-alert
     backgroundColor: "#f8f3ff",
     descriptionTextColor: "#6f7795",
   }}
-/>
+/>;
 ```
 
 ## Props
