@@ -2,4 +2,5 @@
 
 ## Demo 
 
-![react-native-bottom-alert](https://github.com/user-attachments/assets/3e07ecc3-163b-45ac-bf4a-ea3bd31fa60d)
+
+![react-native-bottom-alert-cropped](https://github.com/user-attachments/assets/3c05f576-6026-44b7-98d9-f54223d11e8f)
